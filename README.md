@@ -1,2 +1,2 @@
 # The-Burnout-Predictor-People-Analytics-
-High-tech companies are obsessed with retention. Use R or Python to simulate or analyze a dataset (like the "IBM HR Analytics" dataset from Kaggle) to identify which variables most strongly predict employee turnover.
+High employee turnover costs tech companies 1.5x–2x an employee’s annual salary in lost productivity and recruitment costs. This project utilizes the IBM HR Analytics dataset to identify the psychological and structural drivers of attrition. By blending Logistic Regression with Organizational Psychology theories, this model predicts "flight risk" and provides data-backed interventions to improve retention.
